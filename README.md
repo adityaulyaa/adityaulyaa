@@ -125,6 +125,10 @@ Minat saya mencakup **full-stack development**, **system architecture**, **finan
 <summary><b>🛒 E-Commerce Platform</b> — single-vendor store, from product discovery to payment</summary>
 <br/>
 
+A single-vendor e-commerce application with a complete user journey — from product discovery to order placement and payment.
+
+**Key Features:**
+
 - User registration & JWT-based authentication
 - Product catalog with search and filtering
 - Shopping cart with real-time updates
@@ -139,6 +143,10 @@ Minat saya mencakup **full-stack development**, **system architecture**, **finan
 <details>
 <summary><b>🏫 Campus Facility Reservation System</b> — multi-role facility management for universities</summary>
 <br/>
+
+A multi-role facility management platform for universities to streamline reservation, maintenance reporting, and administrative oversight.
+
+**Key Features:**
 
 - Multi-role authorization (Users, Staff, Administrators)
 - Availability calendar with 30-minute time slots
@@ -155,6 +163,10 @@ Minat saya mencakup **full-stack development**, **system architecture**, **finan
 <summary><b>💎 Wealth Management System</b> — personal finances, portfolios, and goals</summary>
 <br/>
 
+A comprehensive full-stack application for managing personal finances, portfolios, and financial goals with intelligent recommendations.
+
+**What it demonstrates:**
+
 - Complete 3-tier architecture (React → Spring Boot → MySQL)
 - JWT authentication with BCrypt
 - Portfolio CRUD with allocation management
@@ -169,6 +181,10 @@ Minat saya mencakup **full-stack development**, **system architecture**, **finan
 <details>
 <summary><b>🌡️ EcoTherma Smart Building Dashboard</b> — real-time IoT monitoring via MQTT</summary>
 <br/>
+
+A real-time IoT monitoring dashboard for intelligent building management, receiving sensor data through MQTT and providing automated cooling recommendations.
+
+**Key Features:**
 
 - MQTT real-time data streaming
 - Live temperature monitoring with threshold alerts
@@ -200,6 +216,45 @@ Minat saya mencakup **full-stack development**, **system architecture**, **finan
     </td>
   </tr>
 </table>
+
+<details>
+<summary><b>📈 Investment Optimizer</b> — optimal investment allocation with multiple algorithms</summary>
+<br/>
+
+Python application for exploring optimal investment portfolio allocation using multiple algorithmic approaches.
+
+**Algorithms Implemented:**
+
+- Branch and Bound
+- Dynamic Programming
+- Genetic Algorithm
+- Tkinter GUI interface
+
+**Use Case:** Compare different optimization strategies for portfolio allocation problems.
+
+🔗 [Repository](https://github.com/adityaulyaa/investment_optimizer)
+</details>
+
+<details>
+<summary><b>🌦️ Weather Data Analysis Using MPI</b> — parallel anomaly detection with distributed memory</summary>
+<br/>
+
+Parallel weather anomaly detection using distributed-memory processing with Message Passing Interface.
+
+**Key Concepts:**
+
+- CSV data loading and processing in C
+- Multi-process coordination using MPI
+- Data distribution via `MPI_Scatterv`
+- Global statistics via `MPI_Bcast`
+- Result aggregation via `MPI_Reduce`
+- Temperature anomaly detection using statistical methods
+- Comprehensive analysis documentation
+
+**Use Case:** Process large weather datasets across multiple CPU cores efficiently.
+
+🔗 [Repository](https://github.com/adityaulyaa/Weather-Data-Analysis-Using-MPI)
+</details>
 
 <br/>
 
