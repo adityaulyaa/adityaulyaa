@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=230&section=header&text=Aditya%20Ulya&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Forever%20Learner&descSize=18&descAlignY=60" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=230&section=header&text=AdityaUlya&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Students%20%C2%B7%20Software%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Forever%20Learner&descSize=18&descAlignY=60" alt="header" width="100%" />
 
 <a href="https://github.com/adityaulyaa">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&height=50&lines=Building+meaningful+software+%F0%9F%9A%80;React+%2B+Spring+Boot+from+database+to+UI;Financial+Systems+%C2%B7+IoT+%C2%B7+Parallel+Computing;Learning+one+commit+at+a+time+%E2%9C%A8" alt="Typing SVG" />
@@ -55,27 +55,35 @@ Minat saya mencakup **full-stack development**, **system architecture**, **finan
 <br/>
 
 <!-- ========================= TECH STACK ========================= -->
-## 🎯 Mastered Tech Stack
+## 🛠️ Mastered Tech Stack
 
-<div align="center">
+### Languages
 
-**Languages**
+| ![Java](https://skillicons.dev/icons?i=java) | ![Python](https://skillicons.dev/icons?i=python) | ![PHP](https://skillicons.dev/icons?i=php) | ![JavaScript](https://skillicons.dev/icons?i=js) | ![TypeScript](https://skillicons.dev/icons?i=ts) | ![C](https://skillicons.dev/icons?i=c) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Java** | **Python** | **PHP** | **JavaScript** | **TypeScript** | **C** | **HTML** | **CSS** |
+| Backend services & enterprise apps | Algorithms, data analysis, desktop apps | Web application development | Interactive web development | Type-safe frontend development | System & parallel programming | Structured web markup | Styling & responsive design |
 
-<img src="https://skillicons.dev/icons?i=java,python,php,js,ts,c,html,css&perline=8" alt="languages" />
+### Frontend
 
-**Frontend**
+| ![React](https://skillicons.dev/icons?i=react) | ![Vite](https://skillicons.dev/icons?i=vite) | ![Tailwind](https://skillicons.dev/icons?i=tailwind) |
+|:---:|:---:|:---:|
+| **React** | **Vite** | **Tailwind CSS** |
+| Component-based UI development | Fast modern build tooling | Utility-first responsive styling |
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="frontend" />
+### Backend & Database
 
-**Backend & Database**
+| ![Spring](https://skillicons.dev/icons?i=spring) | ![Laravel](https://skillicons.dev/icons?i=laravel) | ![MySQL](https://skillicons.dev/icons?i=mysql) |
+|:---:|:---:|:---:|
+| **Spring Boot** | **Laravel** | **MySQL** |
+| REST API & backend services | PHP framework for web apps | Relational database design |
 
-<img src="https://skillicons.dev/icons?i=spring,laravel,mysql" alt="backend" />
+### Systems & Tools
 
-**Systems & Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,maven" alt="tools" />
-
-</div>
+| ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![VSCode](https://skillicons.dev/icons?i=vscode) | ![Maven](https://skillicons.dev/icons?i=maven) |
+|:---:|:---:|:---:|:---:|
+| **Git** | **GitHub** | **VS Code** | **Maven** |
+| Version control & collaboration | Code hosting & project management | Primary development environment | Java build & dependency management |
 
 <br/>
 
@@ -246,9 +254,9 @@ flowchart LR
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=adityaulyaa&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaulyaa&layout=compact&hide_border=true&theme=tokyonight" alt="top langs" />
 
-<img src="https://streak-stats.demolab.com?user=adityaulyaa&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=adityaulyaa&theme=github-dark&hide_border=true" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaulyaa&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaulyaa&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" width="100%" />
 
 </div>
 
