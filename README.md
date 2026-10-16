@@ -2,9 +2,9 @@
 
 # Hi, I'm Aditya Ulya 👋
 
-### Informatics Student · Full-Stack Developer · Problem Solver
+### Informatics Student · Software Engineer · Full-Stack Developer · Forever Learner
 
-*Building meaningful solutions through web development, IoT, financial systems, and parallel computing.*
+*Building meaningful solutions through Web Development, IoT, Financial Systems, and Parallel Computing.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github)](https://github.com/adityaulyaa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adityaulyaa)
@@ -18,7 +18,7 @@
 
 I'm an Informatics student at Universitas Diponegoro with a passion for building practical, maintainable software solutions that solve real-world problems.
 
-My interests span **full-stack development**, **system architecture**, **financial technology**, **IoT monitoring systems**, and **parallel computing**. I enjoy working on projects that combine clean user experiences, reliable backend logic, and thoughtful design.
+My interests span **full-stack development**, **system architecture**, **financial technology**, **IoT**, and **parallel computing**. I enjoy working on projects that combine clean user experiences, reliable backend logic, and thoughtful design.
 
 **What drives me:**
 - 🎓 Learning software engineering principles and best practices
@@ -33,12 +33,13 @@ My interests span **full-stack development**, **system architecture**, **financi
 
 | Area | What I Do |
 |---|---|
+| **Software Engineering** | Clean code, modular architecture, meaningful documentation, testing |
 | **Web Applications** | Responsive frontends, REST APIs, user authentication, CRUD systems |
-| **Backend Systems** | Layered architecture, business logic, database integration, validation |
 | **Financial Systems** | Portfolio management, investment optimization, financial goal tracking |
 | **IoT Applications** | MQTT-based real-time monitoring, sensor dashboards, automation |
+| **Backend Systems** | Layered architecture, business logic, database integration, validation |
 | **Parallel Computing** | MPI-based distributed processing, data analysis at scale |
-| **Software Engineering** | Clean code, modular architecture, meaningful documentation, testing |
+
 
 ---
 
@@ -71,27 +72,6 @@ My interests span **full-stack development**, **system architecture**, **financi
 ---
 
 ## 🚀 Featured Projects
-
-### Wealth Management System
-
-A comprehensive full-stack application for managing personal finances, portfolios, and financial goals with intelligent recommendations.
-
-**What it demonstrates:**
-- Complete 3-tier architecture (React → Spring Boot → MySQL)
-- User authentication with JWT and BCrypt
-- Portfolio CRUD operations with allocation management
-- Financial goal tracking with automatic progress calculation
-- Custom React hooks for state management
-- REST API design with comprehensive documentation
-- Database schema design and ERD
-- Sequence diagrams for key workflows
-
-**Tech Stack:**
-`React` `TypeScript` `Spring Boot` `MySQL` `JWT` `REST API` `Custom Hooks`
-
-🔗 [View Repository](https://github.com/adityaulyaa/WealthManagementSystem) | [Project Documentation](https://github.com/adityaulyaa/WealthManagementSystem/tree/main/docs)
-
----
 
 ### E-Commerce Platform
 
@@ -132,6 +112,27 @@ A multi-role facility management platform for universities to streamline reserva
 `Laravel` `PHP` `MySQL` `Blade` `Tailwind CSS` `Laravel Breeze`
 
 🔗 [View Repository](https://github.com/adityaulyaa/ProjectReservasiRuangan) | [Setup Guide](https://github.com/adityaulyaa/ProjectReservasiRuangan/blob/main/README.md)
+
+---
+
+### Wealth Management System
+
+A comprehensive full-stack application for managing personal finances, portfolios, and financial goals with intelligent recommendations.
+
+**What it demonstrates:**
+- Complete 3-tier architecture (React → Spring Boot → MySQL)
+- User authentication with JWT and BCrypt
+- Portfolio CRUD operations with allocation management
+- Financial goal tracking with automatic progress calculation
+- Custom React hooks for state management
+- REST API design with comprehensive documentation
+- Database schema design and ERD
+- Sequence diagrams for key workflows
+
+**Tech Stack:**
+`React` `TypeScript` `Spring Boot` `MySQL` `JWT` `REST API` `Custom Hooks`
+
+🔗 [View Repository](https://github.com/adityaulyaa/WealthManagementSystem) | [Project Documentation](https://github.com/adityaulyaa/WealthManagementSystem/tree/main/docs)
 
 ---
 
