@@ -47,27 +47,31 @@ My interests span **full-stack development**, **system architecture**, **financi
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,php,js,ts,c,html,css" />
-</p>
+| ![Java](https://skillicons.dev/icons?i=java) | ![Python](https://skillicons.dev/icons?i=python) | ![PHP](https://skillicons.dev/icons?i=php) | ![JavaScript](https://skillicons.dev/icons?i=js) | ![TypeScript](https://skillicons.dev/icons?i=ts) | ![C](https://skillicons.dev/icons?i=c) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Java** | **Python** | **PHP** | **JavaScript** | **TypeScript** | **C** | **HTML** | **CSS** |
+| Backend services & enterprise apps | Algorithms, data analysis, desktop apps | Web application development | Interactive web development | Type-safe frontend development | System & parallel programming | Structured web markup | Styling & responsive design |
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
-</p>
+| ![React](https://skillicons.dev/icons?i=react) | ![Vite](https://skillicons.dev/icons?i=vite) | ![Tailwind](https://skillicons.dev/icons?i=tailwind) |
+|:---:|:---:|:---:|
+| **React** | **Vite** | **Tailwind CSS** |
+| Component-based UI development | Fast modern build tooling | Utility-first responsive styling |
 
 ### Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,laravel,mysql" />
-</p>
+| ![Spring](https://skillicons.dev/icons?i=spring) | ![Laravel](https://skillicons.dev/icons?i=laravel) | ![MySQL](https://skillicons.dev/icons?i=mysql) |
+|:---:|:---:|:---:|
+| **Spring Boot** | **Laravel** | **MySQL** |
+| REST API & backend services | PHP framework for web apps | Relational database design |
 
 ### Systems & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,maven" />
-</p>
+| ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![VSCode](https://skillicons.dev/icons?i=vscode) | ![Maven](https://skillicons.dev/icons?i=maven) |
+|:---:|:---:|:---:|:---:|
+| **Git** | **GitHub** | **VS Code** | **Maven** |
+| Version control & collaboration | Code hosting & project management | Primary development environment | Java build & dependency management |
 
 ---
 
